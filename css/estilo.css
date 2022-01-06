@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(0, 255, 255, 0.349);
+}
+.animate__animated.animate__fadeInUp{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(238, 135, 238);
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+    font-style: bolder;
+}
