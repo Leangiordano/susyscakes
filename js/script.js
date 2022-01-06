@@ -2,7 +2,7 @@ const contenedor = document.querySelector(".flex-container");
 let contador = 0;
 function crearProducto(nombre,modelo,precio) {
 	contador++;
-	img = "<img class='producto-img' src='./img/icono.png'>";
+	img = "<img class='producto-img' src='img/icono.PNG'>";
 	nombre = `<h2>${nombre}</h2>`;
 	modelo = `<h3 id='${modelo}'></h3>`;
 	precio = `<p>Precio: <b>$${precio}</b></p>`;
